@@ -3,3 +3,4 @@ pypandoc
 notebook
 traitlets
 nbformat
+wkhtmltopdf
